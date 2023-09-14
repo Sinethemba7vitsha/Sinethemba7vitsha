@@ -5,7 +5,7 @@
 - 🐱‍🏍 Flutter and Dart
 - 💞️ I’m looking to collaborate on projects to improve people's lives
 - 📫 How to reach me vitsha709@gmail.com
-- This Page contains Web applictions
+- This Page contains Web and Mobile applictions 
 
 
 
