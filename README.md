@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming,coding and exploring the impossible
 - 🌱 HTML & CSS ,Javascript and Vue.js
 - 🤖 C# ASP.NET Core Web API and EntityFramework
-- 🐱‍🏍 Flutter and Dart
+- 🐱‍🏍 Flutter and Dart // Java & Springboot
 - 💞️ I’m looking to collaborate on projects to improve people's lives
 - 📫 How to reach me vitsha709@gmail.com
 - This Page contains Web and Mobile applictions 
