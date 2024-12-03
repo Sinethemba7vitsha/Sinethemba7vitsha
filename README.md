@@ -1,15 +1,13 @@
-- 👋 Hi, I’m Sinethemba Maxwell Vitsha
-- 👀 I’m interested in gaming,coding and exploring the impossible
-- 🌱 HTML & CSS ,Javascript and Vue.js
-- 🤖 C# ASP.NET Core Web API and EntityFramework
-- 🐱‍🏍 Flutter and Dart // Java & Springboot
-- 💞️ I’m looking to collaborate on projects to improve people's lives
-- 📫 How to reach me vitsha709@gmail.com
-- This Page contains Web and Mobile applictions 
+Hi there 😒 my name is Sinethemba Vitsha
+==================================
 
+Web Developer
+-------------
 
+Sinethemba is a dynamic full-stack developer who crafts seamless applications with Java Spring Boot on the backend and sharp, interactive interfaces with HTML, CSS, JavaScript, and React on the frontend. When he’s not coding, you’ll find him gaming, crushing it at the gym, or enjoying a refreshing jog.
 
-<!---
-Sinethemba7vitsha/Sinethemba7vitsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🌍  I'm based in Braamfontein
+* ✉️  You can contact me at [maxwellsucksatcode@gmail.com](mailto:maxwellsucksatcode@gmail.com)
+* 🧠  I'm learning Springboot(Java) / React(Javascript)
+* 🤝  I'm open to collaborating on Banking systems
+* ⚡  I hunt and kill aliens you welcome
