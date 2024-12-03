@@ -10,4 +10,5 @@ Sinethemba is a dynamic full-stack developer who crafts seamless applications wi
 * ✉️  You can contact me at [maxwellsucksatcode@gmail.com](mailto:maxwellsucksatcode@gmail.com)
 * 🧠  I'm learning Springboot(Java) / React(Javascript)
 * 🤝  I'm open to collaborating on Banking systems
+*  👌 Personal Website https://sinethemba7vitsha.github.io/sinethembavitsha.github.io/
 * ⚡  I hunt and kill aliens you welcome
